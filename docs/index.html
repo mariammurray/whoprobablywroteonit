@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Who's My Favourite 1D Songwriter?</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main>
+    <h1>Who's your favourite One Direction songwriter?</h1>
+    <p class="subtitle">Paste a public Spotify playlist link and find out.</p>
+
+    <div id="login-gate">
+      <button id="login-btn" type="button">Log in with Spotify</button>
+      <p class="hint">Needed once per session so we can read public playlist track listings.</p>
+    </div>
+
+    <form id="score-form" hidden>
+      <input
+        type="text"
+        id="playlist-input"
+        placeholder="https://open.spotify.com/playlist/..."
+        autocomplete="off"
+        required
+      />
+      <button type="submit">Calculate</button>
+    </form>
+
+    <div class="toggle-row" id="toggle-row" hidden>
+      <span class="toggle-label" data-mode="real">All writers considered in calculation</span>
+      <label class="switch">
+        <input type="checkbox" id="mode-toggle" />
+        <span class="slider"></span>
+      </label>
+      <span class="toggle-label" data-mode="bandOnly">If it was just the band</span>
+    </div>
+
+    <div id="status"></div>
+    <ol id="results"></ol>
+  </main>
+
+  <div id="tooltip" class="tooltip" hidden></div>
+
+  <script src="config.js"></script>
+  <script src="auth.js"></script>
+  <script src="spotifyApi.js"></script>
+  <script src="scoring.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

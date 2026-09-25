@@ -1,0 +1,886 @@
+[
+  {
+    "title": "18",
+    "weights": {
+      "Ed Sheeran": 0.6666666666666666,
+      "Oliver Frank": 0.3333333333333333
+    }
+  },
+  {
+    "title": "A.M.",
+    "weights": {
+      "Niall Horan": 0.38567493112947665,
+      "Liam Payne": 0.19283746556473833,
+      "Harry Styles": 0.1285583103764922,
+      "Louis Tomlinson": 0.09641873278236916,
+      "Ed Drewett": 0.07713498622589533,
+      "John Ryan": 0.0642791551882461,
+      "Julian Bunetta": 0.05509641873278237
+    }
+  },
+  {
+    "title": "Act my Age",
+    "weights": {
+      "John Ryan": 0.5454545454545455,
+      "Julian Bunetta": 0.27272727272727276,
+      "Ed Drewett": 0.18181818181818182
+    }
+  },
+  {
+    "title": "Alive",
+    "weights": {
+      "Julian Bunetta": 0.4800000000000001,
+      "John Ryan": 0.24000000000000005,
+      "Jamie Scott": 0.16,
+      "Louis Tomlinson": 0.12000000000000002
+    }
+  },
+  {
+    "title": "Another World",
+    "weights": {
+      "Achraf Jannusi": 0.4081632653061225,
+      "Bilal Hajji": 0.20408163265306126,
+      "Eric Sanicola": 0.1360544217687075,
+      "Geo Slam": 0.10204081632653063,
+      "RedOne": 0.0816326530612245,
+      "Teddy Sky": 0.06802721088435375
+    }
+  },
+  {
+    "title": "Back for You",
+    "weights": {
+      "Kristoffer Fogelmark": 0.3679369250985546,
+      "Savan Kotecha": 0.1839684625492773,
+      "Albin Nedler": 0.12264564169951818,
+      "Rami Yacoub": 0.09198423127463864,
+      "Liam Payne": 0.07358738501971092,
+      "Harry Styles": 0.06132282084975909,
+      "Louis Tomlinson": 0.05256241787122208,
+      "Niall Horan": 0.04599211563731932
+    }
+  },
+  {
+    "title": "Best Song Ever",
+    "weights": {
+      "Wayne Hector": 0.4800000000000001,
+      "John Ryan": 0.24000000000000005,
+      "Ed Drewett": 0.16,
+      "Julian Bunetta": 0.12000000000000002
+    }
+  },
+  {
+    "title": "Better than Words",
+    "weights": {
+      "Jamie Scott": 0.43795620437956206,
+      "Julian Bunetta": 0.21897810218978103,
+      "John Ryan": 0.145985401459854,
+      "Liam Payne": 0.10948905109489052,
+      "Louis Tomlinson": 0.08759124087591241
+    }
+  },
+  {
+    "title": "C'mon, C'mon",
+    "weights": {
+      "Jamie Scott": 0.5454545454545455,
+      "John Ryan": 0.27272727272727276,
+      "Julian Bunetta": 0.18181818181818182
+    }
+  },
+  {
+    "title": "Change My Mind",
+    "weights": {
+      "Rami Yacoub": 0.5454545454545455,
+      "Carl Falk": 0.27272727272727276,
+      "Savan Kotecha": 0.18181818181818182
+    }
+  },
+  {
+    "title": "Change Your Ticket",
+    "weights": {
+      "Niall Horan": 0.3679369250985546,
+      "Zayn Malik": 0.1839684625492773,
+      "Liam Payne": 0.12264564169951818,
+      "Harry Styles": 0.09198423127463864,
+      "Louis Tomlinson": 0.07358738501971092,
+      "Sam Martin": 0.06132282084975909,
+      "Julian Bunetta": 0.05256241787122208,
+      "John Ryan": 0.04599211563731932
+    }
+  },
+  {
+    "title": "Clouds",
+    "weights": {
+      "Zayn Malik": 0.4081632653061225,
+      "Liam Payne": 0.20408163265306126,
+      "Louis Tomlinson": 0.1360544217687075,
+      "Jamie Scott": 0.10204081632653063,
+      "Julian Bunetta": 0.0816326530612245,
+      "John Ryan": 0.06802721088435375
+    }
+  },
+  {
+    "title": "Diana",
+    "weights": {
+      "Jamie Scott": 0.43795620437956206,
+      "Julian Bunetta": 0.21897810218978103,
+      "John Ryan": 0.145985401459854,
+      "Liam Payne": 0.10948905109489052,
+      "Louis Tomlinson": 0.08759124087591241
+    }
+  },
+  {
+    "title": "Does He Know?",
+    "weights": {
+      "Jamie Scott": 0.43795620437956206,
+      "Julian Bunetta": 0.21897810218978103,
+      "John Ryan": 0.145985401459854,
+      "Liam Payne": 0.10948905109489052,
+      "Louis Tomlinson": 0.08759124087591241
+    }
+  },
+  {
+    "title": "Don't Forget Where You Belong",
+    "weights": {
+      "Tom Fletcher": 0.4800000000000001,
+      "Danny Jones": 0.24000000000000005,
+      "Dougie Poynter": 0.16,
+      "Niall Horan": 0.12000000000000002
+    }
+  },
+  {
+    "title": "Drag Me Down",
+    "weights": {
+      "Julian Bunetta": 0.5454545454545455,
+      "Jamie Scott": 0.27272727272727276,
+      "John Ryan": 0.18181818181818182
+    }
+  },
+  {
+    "title": "End of the Day",
+    "weights": {
+      "Liam Payne": 0.3679369250985546,
+      "Louis Tomlinson": 0.1839684625492773,
+      "Julian Bunetta": 0.12264564169951818,
+      "Ed Drewett": 0.09198423127463864,
+      "Jacob Kasher": 0.07358738501971092,
+      "Wayne Hector": 0.06132282084975909,
+      "Gamal \"LunchMoney\" Lewis": 0.05256241787122208,
+      "John Ryan": 0.04599211563731932
+    }
+  },
+  {
+    "title": "Everything About You",
+    "weights": {
+      "Steve Robson": 0.3679369250985546,
+      "Wayne Hector": 0.1839684625492773,
+      "Harry Styles": 0.12264564169951818,
+      "Liam Payne": 0.09198423127463864,
+      "Louis Tomlinson": 0.07358738501971092,
+      "Niall Horan": 0.06132282084975909,
+      "Zayn Malik": 0.05256241787122208,
+      "Nandini Srivastava": 0.04599211563731932
+    }
+  },
+  {
+    "title": "Fireproof",
+    "weights": {
+      "Julian Bunetta": 0.43795620437956206,
+      "Louis Tomlinson": 0.21897810218978103,
+      "Jamie Scott": 0.145985401459854,
+      "Liam Payne": 0.10948905109489052,
+      "John Ryan": 0.08759124087591241
+    }
+  },
+  {
+    "title": "Fool's Gold",
+    "weights": {
+      "Jamie Scott": 0.38567493112947665,
+      "Maureen McDonald": 0.19283746556473833,
+      "Niall Horan": 0.1285583103764922,
+      "Zayn Malik": 0.09641873278236916,
+      "Liam Payne": 0.07713498622589533,
+      "Harry Styles": 0.0642791551882461,
+      "Louis Tomlinson": 0.05509641873278237
+    }
+  },
+  {
+    "title": "Forever Young",
+    "weights": {
+      "Bernhard Lloyd": 0.5454545454545455,
+      "Marian Gold": 0.27272727272727276,
+      "Frank Mertens": 0.18181818181818182
+    }
+  },
+  {
+    "title": "Girl Almighty",
+    "weights": {
+      "Julian Bunetta": 0.5454545454545455,
+      "John Ryan": 0.27272727272727276,
+      "S. Pages Mehner": 0.18181818181818182
+    }
+  },
+  {
+    "title": "God Only Knows",
+    "weights": {
+      "BBC Music and Friends": 1.0
+    }
+  },
+  {
+    "title": "Gotta Be You",
+    "weights": {
+      "Steve Mac": 0.6666666666666666,
+      "August Rigo": 0.3333333333333333
+    }
+  },
+  {
+    "title": "Half a Heart",
+    "weights": {
+      "Steve Robson": 0.5454545454545455,
+      "Ed Drewett": 0.27272727272727276,
+      "Lindy Robbins": 0.18181818181818182
+    }
+  },
+  {
+    "title": "Happily",
+    "weights": {
+      "Savan Kotecha": 0.5454545454545455,
+      "Carl Falk": 0.27272727272727276,
+      "Harry Styles": 0.18181818181818182
+    }
+  },
+  {
+    "title": "Heart Attack",
+    "weights": {
+      "Rami Yacoub": 0.43795620437956206,
+      "Carl Falk": 0.21897810218978103,
+      "Savan Kotecha": 0.145985401459854,
+      "Shellback": 0.10948905109489052,
+      "Kristian Lundin": 0.08759124087591241
+    }
+  },
+  {
+    "title": "Heroes",
+    "weights": {
+      "David Bowie": 0.6666666666666666,
+      "Brian Eno": 0.3333333333333333
+    }
+  },
+  {
+    "title": "Hey Angel",
+    "weights": {
+      "Ed Drewett": 0.5454545454545455,
+      "John Ryan": 0.27272727272727276,
+      "Julian Bunetta": 0.18181818181818182
+    }
+  },
+  {
+    "title": "History",
+    "weights": {
+      "Liam Payne": 0.4081632653061225,
+      "Louis Tomlinson": 0.20408163265306126,
+      "Ed Drewett": 0.1360544217687075,
+      "Wayne Hector": 0.10204081632653063,
+      "Julian Bunetta": 0.0816326530612245,
+      "John Ryan": 0.06802721088435375
+    }
+  },
+  {
+    "title": "Home",
+    "weights": {
+      "Liam Payne": 0.5454545454545455,
+      "Louis Tomlinson": 0.27272727272727276,
+      "Jamie Scott": 0.18181818181818182
+    }
+  },
+  {
+    "title": "I Should've Kissed You",
+    "weights": {
+      "Steve Robson": 0.6666666666666666,
+      "Ina Wroldsen": 0.3333333333333333
+    }
+  },
+  {
+    "title": "I Want",
+    "weights": {
+      "Tom Fletcher": 1.0
+    }
+  },
+  {
+    "title": "I Want to Write You a Song",
+    "weights": {
+      "Ammar Malik": 0.5454545454545455,
+      "John Ryan": 0.27272727272727276,
+      "Julian Bunetta": 0.18181818181818182
+    }
+  },
+  {
+    "title": "I Wish",
+    "weights": {
+      "Rami Yacoub": 0.5454545454545455,
+      "Carl Falk": 0.27272727272727276,
+      "Savan Kotecha": 0.18181818181818182
+    }
+  },
+  {
+    "title": "I Would",
+    "weights": {
+      "Tom Fletcher": 0.5454545454545455,
+      "Danny Jones": 0.27272727272727276,
+      "Dougie Poynter": 0.18181818181818182
+    }
+  },
+  {
+    "title": "If I Could Fly",
+    "weights": {
+      "Harry Styles": 0.5454545454545455,
+      "Ross Golan": 0.27272727272727276,
+      "Johan Carlsson": 0.18181818181818182
+    }
+  },
+  {
+    "title": "Illusion",
+    "weights": {
+      "Liam Payne": 0.43795620437956206,
+      "Niall Horan": 0.21897810218978103,
+      "Jamie Scott": 0.145985401459854,
+      "Julian Bunetta": 0.10948905109489052,
+      "John Ryan": 0.08759124087591241
+    }
+  },
+  {
+    "title": "Infinity",
+    "weights": {
+      "Jamie Scott": 0.5454545454545455,
+      "John Ryan": 0.27272727272727276,
+      "Julian Bunetta": 0.18181818181818182
+    }
+  },
+  {
+    "title": "Irresistible",
+    "weights": {
+      "Tom Fletcher": 0.3679369250985546,
+      "Danny Jones": 0.1839684625492773,
+      "Dougie Poynter": 0.12264564169951818,
+      "Harry Styles": 0.09198423127463864,
+      "Liam Payne": 0.07358738501971092,
+      "Louis Tomlinson": 0.06132282084975909,
+      "Niall Horan": 0.05256241787122208,
+      "Zayn Malik": 0.04599211563731932
+    }
+  },
+  {
+    "title": "Kiss You",
+    "weights": {
+      "Cagaanan": 0.3679369250985546,
+      "Rami Yacoub": 0.1839684625492773,
+      "Carl Falk": 0.12264564169951818,
+      "Savan Kotecha": 0.09198423127463864,
+      "Shellback": 0.07358738501971092,
+      "Kristian Lundin": 0.06132282084975909,
+      "Albin Nedler": 0.05256241787122208,
+      "Kristoffer Fogelmark": 0.04599211563731932
+    }
+  },
+  {
+    "title": "Last First Kiss",
+    "weights": {
+      "Abin Nedler": 0.3679369250985546,
+      "Kristoffer Fogelmark": 0.1839684625492773,
+      "Rami Yacoub": 0.12264564169951818,
+      "Carl Falk": 0.09198423127463864,
+      "Savan Kotecha": 0.07358738501971092,
+      "Liam Payne": 0.06132282084975909,
+      "Louis Tomlinson": 0.05256241787122208,
+      "Zayn Malik": 0.04599211563731932
+    }
+  },
+  {
+    "title": "Little Black Dress",
+    "weights": {
+      "Julian Bunetta": 0.43795620437956206,
+      "John Ryan": 0.21897810218978103,
+      "Theodore Geiger": 0.145985401459854,
+      "Liam Payne": 0.10948905109489052,
+      "Louis Tomlinson": 0.08759124087591241
+    }
+  },
+  {
+    "title": "Little Things",
+    "weights": {
+      "Ed Sheeran": 0.6666666666666666,
+      "Fiona Bevan": 0.3333333333333333
+    }
+  },
+  {
+    "title": "Little White Lies",
+    "weights": {
+      "Julian Bunetta": 0.4081632653061225,
+      "Ed Drewett": 0.20408163265306126,
+      "John Ryan": 0.1360544217687075,
+      "Wayne Hector": 0.10204081632653063,
+      "Liam Payne": 0.0816326530612245,
+      "Louis Tomlinson": 0.06802721088435375
+    }
+  },
+  {
+    "title": "Live While We're Young",
+    "weights": {
+      "Rami Yacoub": 0.5454545454545455,
+      "Carl Falk": 0.27272727272727276,
+      "Savan Kotecha": 0.18181818181818182
+    }
+  },
+  {
+    "title": "Long Way Down",
+    "weights": {
+      "Louis Tomlinson": 0.43795620437956206,
+      "Liam Payne": 0.21897810218978103,
+      "Jamie Scott": 0.145985401459854,
+      "John Ryan": 0.10948905109489052,
+      "Julian Bunetta": 0.08759124087591241
+    }
+  },
+  {
+    "title": "Love You Goodbye",
+    "weights": {
+      "Louis Tomlinson": 0.5454545454545455,
+      "Julian Bunetta": 0.27272727272727276,
+      "Jacob Kasher": 0.18181818181818182
+    }
+  },
+  {
+    "title": "Loved You First",
+    "weights": {
+      "Tebey Ottoh": 0.4800000000000001,
+      "Julian Bunetta": 0.24000000000000005,
+      "John Ryan": 0.16,
+      "Tommy Lee James": 0.12000000000000002
+    }
+  },
+  {
+    "title": "Magic",
+    "weights": {
+      "Rami Yacoub": 0.5454545454545455,
+      "Carl Falk": 0.27272727272727276,
+      "Savan Kotecha": 0.18181818181818182
+    }
+  },
+  {
+    "title": "Midnight Memories",
+    "weights": {
+      "Jamie Scott": 0.43795620437956206,
+      "Julian Bunetta": 0.21897810218978103,
+      "John Ryan": 0.145985401459854,
+      "Liam Payne": 0.10948905109489052,
+      "Louis Tomlinson": 0.08759124087591241
+    }
+  },
+  {
+    "title": "Moments",
+    "weights": {
+      "Ed Sheeran": 0.6666666666666666,
+      "Si Hulbert": 0.3333333333333333
+    }
+  },
+  {
+    "title": "More than This",
+    "weights": {
+      "Jamie Scott": 1.0
+    }
+  },
+  {
+    "title": "Na Na Na",
+    "weights": {
+      "Iain James": 0.43795620437956206,
+      "Savan Kotecha": 0.21897810218978103,
+      "James Murray": 0.145985401459854,
+      "Matt Squire": 0.10948905109489052,
+      "Mustapha Omer": 0.08759124087591241
+    }
+  },
+  {
+    "title": "Never Enough",
+    "weights": {
+      "Niall Horan": 0.4800000000000001,
+      "John Ryan": 0.24000000000000005,
+      "Julian Bunetta": 0.16,
+      "Jamie Scott": 0.12000000000000002
+    }
+  },
+  {
+    "title": "Night Changes",
+    "weights": {
+      "Jamie Scott": 0.3679369250985546,
+      "Julian Bunetta": 0.1839684625492773,
+      "John Ryan": 0.12264564169951818,
+      "Niall Horan": 0.09198423127463864,
+      "Zayn Malik": 0.07358738501971092,
+      "Harry Styles": 0.06132282084975909,
+      "Liam Payne": 0.05256241787122208,
+      "Louis Tomlinson": 0.04599211563731932
+    }
+  },
+  {
+    "title": "No Control",
+    "weights": {
+      "Liam Payne": 0.4081632653061225,
+      "Louis Tomlinson": 0.20408163265306126,
+      "Ruth-Anne Cunningham": 0.1360544217687075,
+      "Jamie Scott": 0.10204081632653063,
+      "Julian Bunetta": 0.0816326530612245,
+      "John Ryan": 0.06802721088435375
+    }
+  },
+  {
+    "title": "Nobody Compares",
+    "weights": {
+      "Rami Yacoub": 0.4800000000000001,
+      "Carl Falk": 0.24000000000000005,
+      "Savan Kotecha": 0.16,
+      "Shellback": 0.12000000000000002
+    }
+  },
+  {
+    "title": "Olivia",
+    "weights": {
+      "Harry Styles": 0.5454545454545455,
+      "John Ryan": 0.27272727272727276,
+      "Julian Bunetta": 0.18181818181818182
+    }
+  },
+  {
+    "title": "Once in a Lifetime",
+    "weights": {
+      "Jamie Scott": 0.5454545454545455,
+      "Julian Bunetta": 0.27272727272727276,
+      "John Ryan": 0.18181818181818182
+    }
+  },
+  {
+    "title": "One Thing",
+    "weights": {
+      "Rami Yacoub": 0.5454545454545455,
+      "Carl Falk": 0.27272727272727276,
+      "Savan Kotecha": 0.18181818181818182
+    }
+  },
+  {
+    "title": "One Way or Another (Teenage Kicks)",
+    "weights": {
+      "Debbie Harry": 0.5454545454545455,
+      "Nigel Harrison": 0.27272727272727276,
+      "John O'Neill": 0.18181818181818182
+    }
+  },
+  {
+    "title": "Over Again",
+    "weights": {
+      "Ed Sheeran": 0.5454545454545455,
+      "Robert Conlon": 0.27272727272727276,
+      "Alexander Gowers": 0.18181818181818182
+    }
+  },
+  {
+    "title": "Perfect",
+    "weights": {
+      "Harry Styles": 0.38567493112947665,
+      "Louis Tomlinson": 0.19283746556473833,
+      "Julian Bunetta": 0.1285583103764922,
+      "Jesse Shatkin": 0.09641873278236916,
+      "Jacob Kasher": 0.07713498622589533,
+      "John Ryan": 0.0642791551882461,
+      "Maureen Anne McDonald": 0.05509641873278237
+    }
+  },
+  {
+    "title": "Ready to Run",
+    "weights": {
+      "Louis Tomlinson": 0.43795620437956206,
+      "Liam Payne": 0.21897810218978103,
+      "Jamie Scott": 0.145985401459854,
+      "Julian Bunetta": 0.10948905109489052,
+      "John Ryan": 0.08759124087591241
+    }
+  },
+  {
+    "title": "Right Now",
+    "weights": {
+      "Ryan Tedder": 0.4800000000000001,
+      "Harry Styles": 0.24000000000000005,
+      "Liam Payne": 0.16,
+      "Louis Tomlinson": 0.12000000000000002
+    }
+  },
+  {
+    "title": "Rock Me",
+    "weights": {
+      "Lukasz Gottwald": 0.43795620437956206,
+      "Henry Walter": 0.21897810218978103,
+      "Peter Svensson": 0.145985401459854,
+      "Allan Grigg": 0.10948905109489052,
+      "Sam Hollander": 0.08759124087591241
+    }
+  },
+  {
+    "title": "Same Mistakes",
+    "weights": {
+      "Steve Robson": 0.38567493112947665,
+      "Wayne Hector": 0.19283746556473833,
+      "Harry Styles": 0.1285583103764922,
+      "Liam Payne": 0.09641873278236916,
+      "Louis Tomlinson": 0.07713498622589533,
+      "Niall Horan": 0.0642791551882461,
+      "Zayn Malik": 0.05509641873278237
+    }
+  },
+  {
+    "title": "Save You Tonight",
+    "weights": {
+      "RedOne": 0.38567493112947665,
+      "BeatGeek": 0.19283746556473833,
+      "Jimmy Joker": 0.1285583103764922,
+      "Teddy Sky": 0.09641873278236916,
+      "Achraf Jannusi": 0.07713498622589533,
+      "Alaina Beaton": 0.0642791551882461,
+      "Savan Kotecha": 0.05509641873278237
+    }
+  },
+  {
+    "title": "She's Not Afraid",
+    "weights": {
+      "Jamie Scott": 0.5454545454545455,
+      "John Ryan": 0.27272727272727276,
+      "Julian Bunetta": 0.18181818181818182
+    }
+  },
+  {
+    "title": "Something Great",
+    "weights": {
+      "Jacknife Lee": 0.5454545454545455,
+      "Gary Lightbody": 0.27272727272727276,
+      "Harry Styles": 0.18181818181818182
+    }
+  },
+  {
+    "title": "Spaces",
+    "weights": {
+      "Liam Payne": 0.43795620437956206,
+      "Louis Tomlinson": 0.21897810218978103,
+      "Jamie Scott": 0.145985401459854,
+      "Julian Bunetta": 0.10948905109489052,
+      "John Ryan": 0.08759124087591241
+    }
+  },
+  {
+    "title": "Stand Up",
+    "weights": {
+      "Roy Stride": 0.6666666666666666,
+      "Josh Wilkinson": 0.3333333333333333
+    }
+  },
+  {
+    "title": "Steal My Girl",
+    "weights": {
+      "Wayne Hector": 0.4081632653061225,
+      "John Ryan": 0.20408163265306126,
+      "Julian Bunetta": 0.1360544217687075,
+      "Ed Drewett": 0.10204081632653063,
+      "Louis Tomlinson": 0.0816326530612245,
+      "Liam Payne": 0.06802721088435375
+    }
+  },
+  {
+    "title": "Still the One",
+    "weights": {
+      "Rami Yacoub": 0.4081632653061225,
+      "Carl Falk": 0.20408163265306126,
+      "Savan Kotecha": 0.1360544217687075,
+      "Harry Styles": 0.10204081632653063,
+      "Liam Payne": 0.0816326530612245,
+      "Louis Tomlinson": 0.06802721088435375
+    }
+  },
+  {
+    "title": "Stockholm Syndrome",
+    "weights": {
+      "Harry Styles": 0.4800000000000001,
+      "Julian Bunetta": 0.24000000000000005,
+      "John Ryan": 0.16,
+      "Johan Carlsson": 0.12000000000000002
+    }
+  },
+  {
+    "title": "Stole My Heart",
+    "weights": {
+      "Jamie Scott": 0.6666666666666666,
+      "Paul Meehan": 0.3333333333333333
+    }
+  },
+  {
+    "title": "Story of My Life",
+    "weights": {
+      "Jamie Scott": 0.3679369250985546,
+      "Julian Bunetta": 0.1839684625492773,
+      "John Ryan": 0.12264564169951818,
+      "Harry Styles": 0.09198423127463864,
+      "Liam Payne": 0.07358738501971092,
+      "Louis Tomlinson": 0.06132282084975909,
+      "Niall Horan": 0.05256241787122208,
+      "Zayn Malik": 0.04599211563731932
+    }
+  },
+  {
+    "title": "Strong",
+    "weights": {
+      "Jamie Scott": 0.4800000000000001,
+      "Julian Bunetta": 0.24000000000000005,
+      "John Ryan": 0.16,
+      "Louis Tomlinson": 0.12000000000000002
+    }
+  },
+  {
+    "title": "Summer Love",
+    "weights": {
+      "Steve Robson": 0.3679369250985546,
+      "Wayne Hector": 0.1839684625492773,
+      "Lindy Robbins": 0.12264564169951818,
+      "Harry Styles": 0.09198423127463864,
+      "Liam Payne": 0.07358738501971092,
+      "Louis Tomlinson": 0.06132282084975909,
+      "Niall Horan": 0.05256241787122208,
+      "Zayn Malik": 0.04599211563731932
+    }
+  },
+  {
+    "title": "Taken",
+    "weights": {
+      "Toby Gad": 0.38567493112947665,
+      "Lindy Robbins": 0.19283746556473833,
+      "Harry Styles": 0.1285583103764922,
+      "Liam Payne": 0.09641873278236916,
+      "Louis Tomlinson": 0.07713498622589533,
+      "Niall Horan": 0.0642791551882461,
+      "Zayn Malik": 0.05509641873278237
+    }
+  },
+  {
+    "title": "Tell Me a Lie",
+    "weights": {
+      "Kelly Clarkson": 0.5454545454545455,
+      "Tom Meredith": 0.27272727272727276,
+      "Shep Solomon": 0.18181818181818182
+    }
+  },
+  {
+    "title": "Temporary Fix",
+    "weights": {
+      "Niall Horan": 0.5454545454545455,
+      "Wayne Hector": 0.27272727272727276,
+      "TMS": 0.18181818181818182
+    }
+  },
+  {
+    "title": "They Don't Know About Us",
+    "weights": {
+      "Tebey Ottoh": 0.4800000000000001,
+      "Tommy Lee James": 0.24000000000000005,
+      "Peter Wallevik": 0.16,
+      "Tommy P Gregersen": 0.12000000000000002
+    }
+  },
+  {
+    "title": "Through the Dark",
+    "weights": {
+      "Jamie Scott": 0.4800000000000001,
+      "Toby Smith": 0.24000000000000005,
+      "Liam Payne": 0.16,
+      "Louis Tomlinson": 0.12000000000000002
+    }
+  },
+  {
+    "title": "Truly, Madly, Deeply",
+    "weights": {
+      "Trevor Dahl": 0.5454545454545455,
+      "Toby Gad": 0.27272727272727276,
+      "Lindy Robbins": 0.18181818181818182
+    }
+  },
+  {
+    "title": "Up All Night",
+    "weights": {
+      "Savan Kotecha": 0.6666666666666666,
+      "Matt Squire": 0.3333333333333333
+    }
+  },
+  {
+    "title": "Walking in the Wind",
+    "weights": {
+      "Harry Styles": 0.4800000000000001,
+      "Julian Bunetta": 0.24000000000000005,
+      "Jamie Scott": 0.16,
+      "John Ryan": 0.12000000000000002
+    }
+  },
+  {
+    "title": "What a Feeling",
+    "weights": {
+      "Liam Payne": 0.43795620437956206,
+      "Louis Tomlinson": 0.21897810218978103,
+      "Mike Needle": 0.145985401459854,
+      "Daniel Bryer": 0.10948905109489052,
+      "Jamie Scott": 0.08759124087591241
+    }
+  },
+  {
+    "title": "What Makes You Beautiful",
+    "weights": {
+      "Rami Yacoub": 0.5454545454545455,
+      "Carl Falk": 0.27272727272727276,
+      "Savan Kotecha": 0.18181818181818182
+    }
+  },
+  {
+    "title": "Where Do Broken Hearts Go",
+    "weights": {
+      "Harry Styles": 0.43795620437956206,
+      "Julian Bunetta": 0.21897810218978103,
+      "Ruth-Anne Cunningham": 0.145985401459854,
+      "Theodore Geiger": 0.10948905109489052,
+      "Ali Tamposi": 0.08759124087591241
+    }
+  },
+  {
+    "title": "Why Don't We Go There",
+    "weights": {
+      "Steve Robson": 0.4800000000000001,
+      "Claude Kelly": 0.24000000000000005,
+      "Wayne Hector": 0.16,
+      "Louis Tomlinson": 0.12000000000000002
+    }
+  },
+  {
+    "title": "Wishing on a Star",
+    "weights": {
+      "Billie Rae Calvin": 1.0
+    }
+  },
+  {
+    "title": "Wolves",
+    "weights": {
+      "Niall Horan": 0.43795620437956206,
+      "Liam Payne": 0.21897810218978103,
+      "Will Champlin": 0.145985401459854,
+      "Andrew Haas": 0.10948905109489052,
+      "Ian Franzino": 0.08759124087591241
+    }
+  },
+  {
+    "title": "You & I",
+    "weights": {
+      "Jamie Scott": 0.4800000000000001,
+      "Julian Bunetta": 0.24000000000000005,
+      "Niall Horan": 0.16,
+      "John Ryan": 0.12000000000000002
+    }
+  }
+]
