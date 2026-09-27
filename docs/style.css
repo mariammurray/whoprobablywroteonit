@@ -269,12 +269,18 @@ button[type="submit"]:disabled {
 .dot-legend {
   display: flex;
   flex-direction: row;
+  flex-wrap: wrap;
   align-items: center;
   justify-content: center;
   gap: 0.4rem 1rem;
   margin: 0.75rem 0;
   color: var(--muted);
   font-size: 0.8rem;
+}
+
+.dot-legend-title {
+  flex-basis: 100%;
+  justify-content: center;
 }
 
 .dot-legend span {
