@@ -24,7 +24,7 @@ async function fetchPlaylistTracks(playlistId, accessToken) {
     const res = await fetch(url, { headers: { Authorization: `Bearer ${accessToken}` } });
     if (!res.ok) {
       const message = res.status === 404
-        ? 'Playlist not found (is it public, private, or a typo?)'
+        ? 'Playlist not found'
         : `Failed to fetch playlist (${res.status})`;
       const error = new Error(message);
       error.status = res.status;

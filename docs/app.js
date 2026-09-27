@@ -269,6 +269,7 @@ form.addEventListener('submit', async (e) => {
   e.preventDefault();
   const playlist = input.value.trim();
   if (!playlist) return;
+  input.value = '';
 
   await runWithStatus('Fetching playlist and crunching numbers...', async () => {
     const playlistId = extractPlaylistId(playlist);
