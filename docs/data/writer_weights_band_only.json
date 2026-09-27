@@ -6,10 +6,10 @@
   {
     "title": "A.M.",
     "weights": {
-      "Niall Horan": 0.4800000000000001,
-      "Liam Payne": 0.24000000000000005,
-      "Harry Styles": 0.16,
-      "Louis Tomlinson": 0.12000000000000002
+      "Niall Horan": 0.25000000000000006,
+      "Liam Payne": 0.25000000000000006,
+      "Harry Styles": 0.25000000000000006,
+      "Louis Tomlinson": 0.25000000000000006
     }
   },
   {
@@ -29,9 +29,9 @@
   {
     "title": "Back for You",
     "weights": {
-      "Liam Payne": 0.4800000000000001,
-      "Harry Styles": 0.24000000000000005,
-      "Louis Tomlinson": 0.16,
+      "Liam Payne": 0.2933333333333334,
+      "Harry Styles": 0.2933333333333334,
+      "Louis Tomlinson": 0.2933333333333334,
       "Niall Horan": 0.12000000000000002
     }
   },
@@ -42,8 +42,8 @@
   {
     "title": "Better than Words",
     "weights": {
-      "Liam Payne": 0.6666666666666666,
-      "Louis Tomlinson": 0.3333333333333333
+      "Liam Payne": 0.5,
+      "Louis Tomlinson": 0.5
     }
   },
   {
@@ -57,33 +57,33 @@
   {
     "title": "Change Your Ticket",
     "weights": {
-      "Niall Horan": 0.43795620437956206,
-      "Zayn Malik": 0.21897810218978103,
-      "Liam Payne": 0.145985401459854,
-      "Harry Styles": 0.10948905109489052,
-      "Louis Tomlinson": 0.08759124087591241
+      "Niall Horan": 0.2,
+      "Zayn Malik": 0.2,
+      "Liam Payne": 0.2,
+      "Harry Styles": 0.2,
+      "Louis Tomlinson": 0.2
     }
   },
   {
     "title": "Clouds",
     "weights": {
-      "Zayn Malik": 0.5454545454545455,
-      "Liam Payne": 0.27272727272727276,
-      "Louis Tomlinson": 0.18181818181818182
+      "Zayn Malik": 0.3333333333333333,
+      "Liam Payne": 0.3333333333333333,
+      "Louis Tomlinson": 0.3333333333333333
     }
   },
   {
     "title": "Diana",
     "weights": {
-      "Liam Payne": 0.6666666666666666,
-      "Louis Tomlinson": 0.3333333333333333
+      "Liam Payne": 0.5,
+      "Louis Tomlinson": 0.5
     }
   },
   {
     "title": "Does He Know?",
     "weights": {
-      "Liam Payne": 0.6666666666666666,
-      "Louis Tomlinson": 0.3333333333333333
+      "Liam Payne": 0.5,
+      "Louis Tomlinson": 0.5
     }
   },
   {
@@ -99,18 +99,18 @@
   {
     "title": "End of the Day",
     "weights": {
-      "Liam Payne": 0.6666666666666666,
-      "Louis Tomlinson": 0.3333333333333333
+      "Liam Payne": 0.5,
+      "Louis Tomlinson": 0.5
     }
   },
   {
     "title": "Everything About You",
     "weights": {
       "Harry Styles": 0.43795620437956206,
-      "Liam Payne": 0.21897810218978103,
-      "Louis Tomlinson": 0.145985401459854,
-      "Niall Horan": 0.10948905109489052,
-      "Zayn Malik": 0.08759124087591241
+      "Liam Payne": 0.18248175182481752,
+      "Louis Tomlinson": 0.18248175182481752,
+      "Niall Horan": 0.09854014598540146,
+      "Zayn Malik": 0.09854014598540146
     }
   },
   {
@@ -123,11 +123,11 @@
   {
     "title": "Fool's Gold",
     "weights": {
-      "Niall Horan": 0.43795620437956206,
-      "Zayn Malik": 0.21897810218978103,
-      "Liam Payne": 0.145985401459854,
-      "Harry Styles": 0.10948905109489052,
-      "Louis Tomlinson": 0.08759124087591241
+      "Niall Horan": 0.2,
+      "Zayn Malik": 0.2,
+      "Liam Payne": 0.2,
+      "Harry Styles": 0.2,
+      "Louis Tomlinson": 0.2
     }
   },
   {
@@ -171,15 +171,15 @@
   {
     "title": "History",
     "weights": {
-      "Liam Payne": 0.6666666666666666,
-      "Louis Tomlinson": 0.3333333333333333
+      "Liam Payne": 0.5,
+      "Louis Tomlinson": 0.5
     }
   },
   {
     "title": "Home",
     "weights": {
-      "Liam Payne": 0.6666666666666666,
-      "Louis Tomlinson": 0.3333333333333333
+      "Liam Payne": 0.5,
+      "Louis Tomlinson": 0.5
     }
   },
   {
@@ -223,10 +223,10 @@
     "title": "Irresistible",
     "weights": {
       "Harry Styles": 0.43795620437956206,
-      "Liam Payne": 0.21897810218978103,
-      "Louis Tomlinson": 0.145985401459854,
-      "Niall Horan": 0.10948905109489052,
-      "Zayn Malik": 0.08759124087591241
+      "Liam Payne": 0.18248175182481752,
+      "Louis Tomlinson": 0.18248175182481752,
+      "Niall Horan": 0.09854014598540146,
+      "Zayn Malik": 0.09854014598540146
     }
   },
   {
@@ -236,16 +236,16 @@
   {
     "title": "Last First Kiss",
     "weights": {
-      "Liam Payne": 0.5454545454545455,
-      "Louis Tomlinson": 0.27272727272727276,
+      "Liam Payne": 0.40909090909090917,
+      "Louis Tomlinson": 0.40909090909090917,
       "Zayn Malik": 0.18181818181818182
     }
   },
   {
     "title": "Little Black Dress",
     "weights": {
-      "Liam Payne": 0.6666666666666666,
-      "Louis Tomlinson": 0.3333333333333333
+      "Liam Payne": 0.5,
+      "Louis Tomlinson": 0.5
     }
   },
   {
@@ -255,8 +255,8 @@
   {
     "title": "Little White Lies",
     "weights": {
-      "Liam Payne": 0.6666666666666666,
-      "Louis Tomlinson": 0.3333333333333333
+      "Liam Payne": 0.5,
+      "Louis Tomlinson": 0.5
     }
   },
   {
@@ -287,8 +287,8 @@
   {
     "title": "Midnight Memories",
     "weights": {
-      "Liam Payne": 0.6666666666666666,
-      "Louis Tomlinson": 0.3333333333333333
+      "Liam Payne": 0.5,
+      "Louis Tomlinson": 0.5
     }
   },
   {
@@ -312,18 +312,18 @@
   {
     "title": "Night Changes",
     "weights": {
-      "Niall Horan": 0.43795620437956206,
-      "Zayn Malik": 0.21897810218978103,
-      "Harry Styles": 0.145985401459854,
-      "Liam Payne": 0.10948905109489052,
-      "Louis Tomlinson": 0.08759124087591241
+      "Niall Horan": 0.26763990267639903,
+      "Zayn Malik": 0.26763990267639903,
+      "Harry Styles": 0.26763990267639903,
+      "Liam Payne": 0.09854014598540146,
+      "Louis Tomlinson": 0.09854014598540146
     }
   },
   {
     "title": "No Control",
     "weights": {
-      "Liam Payne": 0.6666666666666666,
-      "Louis Tomlinson": 0.3333333333333333
+      "Liam Payne": 0.5,
+      "Louis Tomlinson": 0.5
     }
   },
   {
@@ -355,8 +355,8 @@
   {
     "title": "Perfect",
     "weights": {
-      "Harry Styles": 0.6666666666666666,
-      "Louis Tomlinson": 0.3333333333333333
+      "Harry Styles": 0.5,
+      "Louis Tomlinson": 0.5
     }
   },
   {
@@ -370,8 +370,8 @@
     "title": "Right Now",
     "weights": {
       "Harry Styles": 0.5454545454545455,
-      "Liam Payne": 0.27272727272727276,
-      "Louis Tomlinson": 0.18181818181818182
+      "Liam Payne": 0.2272727272727273,
+      "Louis Tomlinson": 0.2272727272727273
     }
   },
   {
@@ -382,10 +382,10 @@
     "title": "Same Mistakes",
     "weights": {
       "Harry Styles": 0.43795620437956206,
-      "Liam Payne": 0.21897810218978103,
-      "Louis Tomlinson": 0.145985401459854,
-      "Niall Horan": 0.10948905109489052,
-      "Zayn Malik": 0.08759124087591241
+      "Liam Payne": 0.18248175182481752,
+      "Louis Tomlinson": 0.18248175182481752,
+      "Niall Horan": 0.09854014598540146,
+      "Zayn Malik": 0.09854014598540146
     }
   },
   {
@@ -405,8 +405,8 @@
   {
     "title": "Spaces",
     "weights": {
-      "Liam Payne": 0.6666666666666666,
-      "Louis Tomlinson": 0.3333333333333333
+      "Liam Payne": 0.5,
+      "Louis Tomlinson": 0.5
     }
   },
   {
@@ -424,8 +424,8 @@
     "title": "Still the One",
     "weights": {
       "Harry Styles": 0.5454545454545455,
-      "Liam Payne": 0.27272727272727276,
-      "Louis Tomlinson": 0.18181818181818182
+      "Liam Payne": 0.2272727272727273,
+      "Louis Tomlinson": 0.2272727272727273
     }
   },
   {
@@ -442,10 +442,10 @@
     "title": "Story of My Life",
     "weights": {
       "Harry Styles": 0.43795620437956206,
-      "Liam Payne": 0.21897810218978103,
-      "Louis Tomlinson": 0.145985401459854,
-      "Niall Horan": 0.10948905109489052,
-      "Zayn Malik": 0.08759124087591241
+      "Liam Payne": 0.18248175182481752,
+      "Louis Tomlinson": 0.18248175182481752,
+      "Niall Horan": 0.09854014598540146,
+      "Zayn Malik": 0.09854014598540146
     }
   },
   {
@@ -458,20 +458,20 @@
     "title": "Summer Love",
     "weights": {
       "Harry Styles": 0.43795620437956206,
-      "Liam Payne": 0.21897810218978103,
-      "Louis Tomlinson": 0.145985401459854,
-      "Niall Horan": 0.10948905109489052,
-      "Zayn Malik": 0.08759124087591241
+      "Liam Payne": 0.18248175182481752,
+      "Louis Tomlinson": 0.18248175182481752,
+      "Niall Horan": 0.09854014598540146,
+      "Zayn Malik": 0.09854014598540146
     }
   },
   {
     "title": "Taken",
     "weights": {
       "Harry Styles": 0.43795620437956206,
-      "Liam Payne": 0.21897810218978103,
-      "Louis Tomlinson": 0.145985401459854,
-      "Niall Horan": 0.10948905109489052,
-      "Zayn Malik": 0.08759124087591241
+      "Liam Payne": 0.18248175182481752,
+      "Louis Tomlinson": 0.18248175182481752,
+      "Niall Horan": 0.09854014598540146,
+      "Zayn Malik": 0.09854014598540146
     }
   },
   {
@@ -491,8 +491,8 @@
   {
     "title": "Through the Dark",
     "weights": {
-      "Liam Payne": 0.6666666666666666,
-      "Louis Tomlinson": 0.3333333333333333
+      "Liam Payne": 0.5,
+      "Louis Tomlinson": 0.5
     }
   },
   {
@@ -512,8 +512,8 @@
   {
     "title": "What a Feeling",
     "weights": {
-      "Liam Payne": 0.6666666666666666,
-      "Louis Tomlinson": 0.3333333333333333
+      "Liam Payne": 0.5,
+      "Louis Tomlinson": 0.5
     }
   },
   {
@@ -539,8 +539,8 @@
   {
     "title": "Wolves",
     "weights": {
-      "Niall Horan": 0.6666666666666666,
-      "Liam Payne": 0.3333333333333333
+      "Niall Horan": 0.5,
+      "Liam Payne": 0.5
     }
   },
   {

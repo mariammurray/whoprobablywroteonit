@@ -1,5 +1,7 @@
 // Spotify Authorization Code + PKCE flow — runs entirely in the browser, no client secret needed.
 const AUTH_STORAGE_KEY = 'spotify_auth';
+const APP_TOKEN_STORAGE_KEY = 'spotify_app_token';
+const USER_SCOPES = 'playlist-read-private user-library-read';
 
 function base64UrlEncode(buffer) {
   return btoa(String.fromCharCode(...new Uint8Array(buffer)))
@@ -46,7 +48,7 @@ async function loginWithSpotify(clientId) {
   const params = new URLSearchParams({
     response_type: 'code',
     client_id: clientId,
-    scope: '',
+    scope: USER_SCOPES,
     redirect_uri: redirectUri(),
     state,
     code_challenge_method: 'S256',
@@ -141,4 +143,30 @@ function isLoggedIn() {
 
 function logout() {
   sessionStorage.removeItem(AUTH_STORAGE_KEY);
+}
+
+function readAppToken() {
+  try {
+    return JSON.parse(sessionStorage.getItem(APP_TOKEN_STORAGE_KEY));
+  } catch {
+    return null;
+  }
+}
+
+// App-only token (Client Credentials flow) for reading PUBLIC playlists without any user login.
+// Obtained from our own token proxy, which is the only place that holds the client secret.
+async function getAppAccessToken() {
+  const cached = readAppToken();
+  if (cached && Date.now() < cached.expiresAt) return cached.accessToken;
+
+  const res = await fetch(TOKEN_PROXY_URL);
+  if (!res.ok) throw new Error('Could not get an app token to read the playlist');
+
+  const data = await res.json();
+  const token = {
+    accessToken: data.access_token,
+    expiresAt: Date.now() + (data.expires_in - 60) * 1000,
+  };
+  sessionStorage.setItem(APP_TOKEN_STORAGE_KEY, JSON.stringify(token));
+  return token.accessToken;
 }
