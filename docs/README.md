@@ -13,7 +13,7 @@ Contribution points for each song are pre-computed in two json files, one with a
 
 The order in which songwriters are credited normally signifies that the first names contributed more.  This points system uses harmonic weighting and gives a total of 1 point to all the writers, which gets divided by the total number of writers and descends as it goes along.  *However*, in many (but not all) cases the contributing members of One Direction get listed beside each other in alphabetical order, which seems to signify their contributions were more or less even.  In calculating my weights, if two or more members were listed beside each other alphabetically, I considered that a tie.  
 
-Here is an example, Horan is credited last despite being first alphabetically which can be interpreted as meaning he contributed least, but the same can't be inferred from the order of the first three, they are awarded equal points.
+Here is an example, Horan is credited last despite being first alphabetically which can be interpreted to mean he contributed least, but the same can't be inferred from the order of the first three; they are awarded equal points.
 
 ![example json showing Payne, Styles, Tomlinson, then Horan consecutively, wherein the first 3 are given equal points and Horan is awarded slightly less ](example.png)
 
